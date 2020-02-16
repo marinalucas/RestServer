@@ -1,0 +1,8 @@
+server:
+  port: 3343
+
+logging:
+  level:
+    ROOT: debug
+
+

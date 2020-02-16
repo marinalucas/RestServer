@@ -1,0 +1,3 @@
+br\com\unisys\rest\service\controllers\TestController.class
+br\com\unisys\rest\service\App.class
+br\com\unisys\rest\service\entities\Pessoa.class
